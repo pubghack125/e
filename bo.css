@@ -1,0 +1,59 @@
+
+ *{ 
+   scroll-behavior: smooth;
+ }
+ 
+   html,body{
+   width: 100%;
+   height: 100%;
+   margin: 0 auto;
+  
+}
+.bolck{
+   color: white;
+   background-color: black;
+   
+}
+.bolck1{
+   background-color:#244dc7 ;
+   
+}
+.full-page{
+   height: 100vh;
+  
+   
+}
+.full-page1{
+   height: 75vh;
+
+
+}
+.full-page1 h3 {
+
+  
+
+position: relative;
+top: 50%;
+}
+
+.block{
+   background-color: black;
+   color: antiquewhite;
+}
+.full-page2{
+   height: 70vh;
+  
+}
+    
+.bolck{
+   color: aliceblue;
+   align-content: center;
+   padding: 5%;
+
+
+}
+
+.bolck1{
+   background-color: #244dc7;
+
+}
